@@ -1,0 +1,9 @@
+
+p{
+  letter-spacing: 5px;
+}
+
+p::first-letter{
+  color: red;
+}
+
